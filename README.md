@@ -45,6 +45,6 @@ In addition to the services, there are two other functions in  [core.clj](src/cl
 2. `cd` to project directory
 3. Run*
 	- Run with Leiningen:  `lein run`
-	- Create a jar ( `lein uberjar` ) and run it with java (`java -jar target/uberjar/clojurest-0.0.1-standalone.jar`
+	- Create a jar ( `lein uberjar` ) and run it with java (`java -jar target/clojurest-0.0.1-standalone.jar`
   
 *you may need admin privileges to allow the application through your firewall
