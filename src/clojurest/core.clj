@@ -1,4 +1,5 @@
 (ns clojurest.core
+  (:gen-class)
   (:require [clojure.data.json :as json]
             [org.httpkit.server :as httpkit]))
 
